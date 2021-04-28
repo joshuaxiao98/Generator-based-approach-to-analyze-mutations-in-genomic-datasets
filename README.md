@@ -1,7 +1,7 @@
 # Generator-based-approach-to-analyze-mutations-in-genomic-datasets
 Code and data for Generator based approach to analyze mutations in genomic datasets
 
-(1) The functions used to generate the state machine are provided in important_functions.ipynb, and the pickle file for any fasta file can be generated using create_pickle.ipynb.
+(1) The functions used to generate the state machine are provided in important_functions.ipynb. Pickle file for any fasta file can be generated using create_pickle.ipynb.
 
 (2) For Figure 2a,b,c,d,e,f, please use the Fig2_synthetic_data.ipynb.
 
