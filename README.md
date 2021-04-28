@@ -11,6 +11,6 @@ Code and data for Generator based approach to analyze mutations in genomic datas
 
 (5) For Figure 4 and 6, please use Mutation_detection_time.ipynb
 
-(6) For Figure 5, please use mutation_detection_region.ipynb. GISAID acknowledgement files for the samples used are provided in the folder samples_used_figure_5.
+(6) For Figure 5, please use mutation_detection_region.ipynb. Metadata information for the samples used is provided in the folder samples_used_figure_5.
 
  
