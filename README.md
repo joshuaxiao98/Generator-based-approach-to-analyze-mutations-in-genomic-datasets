@@ -4,7 +4,7 @@ Software requirements:
 
 (1) Python3 (any version preferably >3.6), jupyter.
 
-(2) Packages: numpy, scipy, pandas, scikit-learn, seaborn, glob, collections, pickle, matplotlib.
+(2) Packages: numpy, scipy, pandas, scikit-learn, seaborn, glob, collections, pickle, matplotlib, pickle, warnings.
 
 (3) The fasta files can be downloaded from GISAID. The GISAID acknowledgment files for each set of experiments done in the paper are provided on the github page and the supplementary material.
 
