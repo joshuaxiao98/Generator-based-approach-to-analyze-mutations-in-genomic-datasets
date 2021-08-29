@@ -13,9 +13,9 @@ Code and data for Generator based approach to analyze mutations in genomic datas
 
 (1) The functions used to generate the state machine are provided in important_functions.ipynb, and the pickle file for any fasta file can be generated using create_pickle.ipynb.
 
-(2) For Figure 2a-iplease use the Fig2_synthetic_data.ipynb.
+(2) For Figure 2 a-i, please use the Fig2_synthetic_data.ipynb.
 
-(3) For Figure 2j,k, please use PCA_strains.ipynb. GISAID acknowledgement files for the samples used in Fig 2j are provided in the folder G_L_GR and for Fig 2k are provided in the folder UK_SA_Braz.
+(3) For Figure 2 j,k, please use PCA_strains.ipynb. GISAID acknowledgement files for the samples used in Fig 2j are provided in the folder G_L_GR and for Fig 2k are provided in the folder UK_SA_Braz.
 
 (4) For Figure 3, please use Intra_Strain_Evolution.ipynb. GISAID acknowledgement files for the samples used are provided in the folder continuous_evol.
 
