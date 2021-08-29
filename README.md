@@ -1,4 +1,12 @@
 # Generator-based-approach-to-analyze-mutations-in-genomic-datasets
+
+Software requirements:
+
+(1) Python3 (any version preferably >3.6), jupyter.
+(2) Packages: numpy, pandas, scikit-learn, seaborn, glob, collections, pickle, matplotlib.
+(3) The fasta files can be downloaded from GISAID. The GISAID acknowledgment files for each set of experiments done in the paper are provided on the github page and the supplementary material.
+
+
 Code and data for Generator based approach to analyze mutations in genomic datasets
 
 (1) The functions used to generate the state machine are provided in important_functions.ipynb, and the pickle file for any fasta file can be generated using create_pickle.ipynb.
