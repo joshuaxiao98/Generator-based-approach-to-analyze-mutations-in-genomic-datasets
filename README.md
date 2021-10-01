@@ -19,7 +19,7 @@ Code and data for Generator based approach to analyze mutations in genomic datas
 
 (4) For Figure 4, please use Intra_Strain_Evolution.ipynb. GISAID acknowledgement files for the samples used are provided in the folder continuous_evol.
 
-(5) For Figure 5b,c,d,e and 7, please use Mutation_detection_time.ipynb, our 'State Machine' method, 'Needleman-Wunsch' method and 'Smith-Waterman' method are included in it. The specific data for Figure 6 are provided in folders 'Time_N_*'.
+(5) For Figure 5b,c,d,e and 7, please use Mutation_detection_time.ipynb, our 'State Machine' method, 'Needleman-Wunsch' method and 'Smith-Waterman' method are included in it. The specific data for Figure 7 are provided in folders 'Time_N_*'.
 
 (6) For Figure 6, please use mutation_detection_region.ipynb. Metadata information for the samples used is provided in the folder samples_used_figure_5.
 
