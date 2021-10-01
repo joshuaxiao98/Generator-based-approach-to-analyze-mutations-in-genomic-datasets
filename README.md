@@ -13,14 +13,14 @@ Code and data for Generator based approach to analyze mutations in genomic datas
 
 (1) The functions used to generate the state machine are provided in important_functions.ipynb, and the pickle file for any fasta file can be generated using create_pickle.ipynb.
 
-(2) For Figure 2 a-i, please use the Fig2_synthetic_data.ipynb.
+(2) For Figure 2, please use the Fig2_synthetic_data.ipynb.
 
-(3) For Figure 2 j,k, please use PCA_strains.ipynb. GISAID acknowledgement files for the samples used in Fig 2j are provided in the folder G_L_GR and for Fig 2k are provided in the folder UK_SA_Braz.
+(3) For Figure 3 and S2, please use PCA_strains.ipynb. GISAID acknowledgement files for the samples used are provided in the folder G_L_GR and for Fig S2 are provided in the folder UK_SA_Braz.
 
-(4) For Figure 3, please use Intra_Strain_Evolution.ipynb. GISAID acknowledgement files for the samples used are provided in the folder continuous_evol.
+(4) For Figure 4, please use Intra_Strain_Evolution.ipynb. GISAID acknowledgement files for the samples used are provided in the folder continuous_evol.
 
-(5) For Figure 4b,c,d,e and 6, please use Mutation_detection_time.ipynb, our 'State Machine' method, 'Needleman-Wunsch' method and 'Smith-Waterman' method are included in it. The specific data for Figure 6 are provided in folders 'Time_N_*'.
+(5) For Figure 5b,c,d,e and 7, please use Mutation_detection_time.ipynb, our 'State Machine' method, 'Needleman-Wunsch' method and 'Smith-Waterman' method are included in it. The specific data for Figure 6 are provided in folders 'Time_N_*'.
 
-(6) For Figure 5, please use mutation_detection_region.ipynb. Metadata information for the samples used is provided in the folder samples_used_figure_5.
+(6) For Figure 6, please use mutation_detection_region.ipynb. Metadata information for the samples used is provided in the folder samples_used_figure_5.
 
  
